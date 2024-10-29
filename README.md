@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hi I'm 三分糖~ 👋
 
-<!--
-**zmkHome/zmkHome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A web developer based in China.
 
-Here are some ideas to get you started:
+## 🔭 Tech stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Tech stack](https://skillicons.dev/icons?i=nodejs,js,ts,react,vue,pinia)
+
+### 🛠 Tools I use
+
+![Tools I use](https://skillicons.dev/icons?i=vscode,pnpm,vite,git,github,discord)
+
+### 🚀 Contribution
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=zmkHome&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=zmkHome&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=zmkHome&show_icons=true"/>
+</picture>
